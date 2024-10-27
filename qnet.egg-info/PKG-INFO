@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: qnet
+Version: 0.1
+Summary: Quantum Network Simulation Framework
+Home-page: https://github.com/qbits/qnet
+Author: Qbits
+Author-email: contact@qbitsest.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: networkx
+Requires-Dist: matplotlib
+Requires-Dist: cython
+Requires-Dist: pytest
